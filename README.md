@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheDong3r
-- 👀 I’m interested in many things such as security, devops, motorcycles, flying, and travel. 
+- 👋 Hi, I’m @TheDong3r "Donger need food!"
+- 👀 I’m interested in many things such as security, social engineering, pizza, coding, motorcycles, flying pizza, and travel. 
 - 🌱 I’m currently learning life! ...
 - 📫 I can be reached on the webs!  ...
 
